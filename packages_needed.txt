@@ -1,0 +1,45 @@
+# PROGRAMMING LANGUAGES
+Python
+Conda (microconda)
+R
+Java
+PERL
+
+# WORKFLOW MANAGERS
+Nextflow
+Snakemake
+Common Workflow Language
+
+# SEQUENCE PROCESSING
+FastQC # DONE
+MultiQC 
+Seqtk
+
+# SEQUENCE ALIGNMENT
+bowtie2 # DONE
+BWA
+Diamond
+
+# QUANTIFICATION
+Cufflinks
+RSEM
+
+# VARIANT CALLING
+freebayes
+GATK # DONE
+bcftools # DONE
+
+# BAM FILE UTILITIES
+Bamtools
+Samtools # DONE
+
+#VCF FILE UTILITIES
+bcftools # DONE
+vcftools
+
+# GFF BED FILE UTILITIES
+BEDOPS
+Bedtools2
+
+# VARIANT PREDICTION/ANNOTATION
+Ensemble VEP # DONE
